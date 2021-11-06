@@ -1,0 +1,22 @@
+.header-container{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 260px;
+    height: 80px;
+    align-items: center;
+    background-color: rgb(248, 246, 248);
+ 
+}
+
+.header-title{
+    color: rgb(83, 7, 134);
+    text-align: left;
+}
+
+.logo{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+    height: 70px;
+}
